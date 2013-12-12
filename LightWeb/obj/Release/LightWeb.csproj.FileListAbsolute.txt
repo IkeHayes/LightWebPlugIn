@@ -1,0 +1,13 @@
+D:\Program Files\Vixen 2.1.1.0\Plugins\Output\LightWeb.dll
+D:\Program Files\Vixen 2.1.1.0\Plugins\Output\LightWeb.pdb
+D:\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.frmSetupDialog.resources
+D:\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.dll
+D:\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.pdb
+D:\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.csprojResolveAssemblyReference.cache
+D:\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.csproj.GenerateResource.Cache
+D:\SkyDrive\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.frmSetupDialog.resources
+D:\SkyDrive\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.Properties.Resources.resources
+D:\SkyDrive\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.csproj.GenerateResource.Cache
+D:\SkyDrive\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.dll
+D:\SkyDrive\Projects\Operation Jingle Bells\LightWeb Vixen PlugIn\LightWeb\obj\Release\LightWeb.pdb
